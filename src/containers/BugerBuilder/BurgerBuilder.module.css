@@ -1,0 +1,19 @@
+.BurgerControlsContainer {
+  width: 100%;
+  justify-content: center;
+  display: grid;
+  background-color: #343a40;
+  padding: 1rem;
+}
+
+.BurgerControlsContainer h3 {
+  color: white;
+}
+
+.Price {
+  text-align: center;
+}
+
+.Purchase {
+  margin: 16px;
+}

@@ -1,0 +1,23 @@
+.Controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.Controls h3 {
+  width: 120px;
+  color: white;
+}
+
+.Controls button {
+  margin: 5px;
+}
+
+/* .Controls button {
+  background-color: salmon;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border: 3px solid lightsalmon;
+} */
